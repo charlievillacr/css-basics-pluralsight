@@ -1,0 +1,10 @@
+@import url("1_cascading_styles_2.css");
+
+body {
+    /* background-color: red; */
+}
+
+
+p {
+    background-color: green;
+}
